@@ -1,8 +1,8 @@
 class Canine < Formula
   desc "Kubernetes CLI for Canine"
   homepage "https://github.com/CanineHQ/cli"
-  url "https://github.com/CanineHQ/cli/archive/refs/tags/v0.1.26.tar.gz"
-  sha256 "956f919901b2ada4be3cc725a30a32b59059884256fb000ea8ea6d3750377e84"
+  url "https://github.com/CanineHQ/cli/archive/refs/tags/v0.1.27.tar.gz"
+  sha256 "208fa320df7943b4aeb8b8089e3da1b3c3b73f20a2b7686e8ae4042dc19f7224"
   license "MIT"
 
   depends_on "rust" => :build
